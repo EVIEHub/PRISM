@@ -1,6 +1,8 @@
-# PRISM
+# PRISM: Parallel Reward Integration with Symmetry for MORL 
 
-A research project for reward shaping in reinforcement learning.
+Authors: Finn van der Knaap, Kejiang Qian, Zheng Xu, Fengxiang He
+
+Paper: [http://fengxianghe.github.io/paper/PRISM.pdf](http://fengxianghe.github.io/paper/PRISM.pdf)
 
 ## Table of Contents
 
