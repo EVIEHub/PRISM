@@ -2,7 +2,7 @@
 
 Authors: Finn van der Knaap, Kejiang Qian, Zheng Xu, Fengxiang He
 
-Paper: [http://fengxianghe.github.io/paper/PRISM.pdf](http://fengxianghe.github.io/paper/PRISM.pdf)
+Paper: [https://arxiv.org/pdf/2602.18277](https://arxiv.org/pdf/2602.18277)
 
 ## Table of Contents
 
